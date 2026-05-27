@@ -20,7 +20,7 @@ To ensure a clean setup, it is recommended to run this project inside a Python v
 
 ```bash
 # Clone the repository
-git clone [https://github.com/AnkushKumarIISc/simulated-virtual-laboratory.git](https://github.com/AnkushKumarIISc/simulated-virtual-laboratory.git)
+git clone https://github.com/AnkushKumarIISc/simulated-virtual-laboratory.git
 cd simulated-virtual-laboratory
 
 # Install required dependencies
