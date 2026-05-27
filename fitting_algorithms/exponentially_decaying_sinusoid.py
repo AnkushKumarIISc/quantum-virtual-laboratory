@@ -1,4 +1,4 @@
-### ADAPITIVE ALGORITHM BY PRATEEK AGRAWAL ###
+### ADAPITIVE ALGORITHM BY PRATEEK AGARWAL ###
 
 import numpy as np
 import matplotlib.pyplot as plt
