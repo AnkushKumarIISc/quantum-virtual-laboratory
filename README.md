@@ -1,6 +1,6 @@
 # Simulating and Automating Quantum Measurements for Characterizing Transmon Qubits
 
-A modular, simulation-only characterization software for characterizing transmon qubit-resonator systems.
+A modular, simulation-only characterization software for transmon qubit-resonator systems.
 
 
 ## Key Features
