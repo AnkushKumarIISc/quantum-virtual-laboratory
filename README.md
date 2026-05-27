@@ -20,8 +20,8 @@ To ensure a clean setup, it is recommended to run this project inside a Python v
 
 ```bash
 # Clone the repository
-git clone https://github.com/AnkushKumarIISc/simulated-virtual-laboratory.git
-cd simulated-virtual-laboratory
+git clone https://github.com/AnkushKumarIISc/quantum-virtual-laboratory.git
+cd quantum-virtual-laboratory
 
 # Install required dependencies
 pip install -r requirements.txt
